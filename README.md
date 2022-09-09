@@ -1,6 +1,5 @@
-<!-- ### Credenciales: USUARIO: Eduardo PASS: 102030 -->
-
-<!-- Librerias a instalar:
+### Credenciales: USUARIO: Eduardo PASS: 102030
+Librerias a instalar:
 
     "@emotion/react": "^11.9.3",
     "@emotion/styled": "^11.9.3",
@@ -23,7 +22,6 @@
     "react-router-dom": "^6.3.0",
     material-ui-dropzone
 
- -->
 
 ### `npm run build`
 
